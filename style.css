@@ -16,7 +16,7 @@
     width:100px ;
 }
 .logo{
-    background-image:url(amazon_logo.webp) ;
+    background-image:url(photos/amazon_logo.webp) ;
 height: 50px;
 width: 100%;
 background-size: cover;
@@ -109,7 +109,7 @@ span{
     font-size:0.85rem;
 }
 .hero-section{
-    background-image: url(books_amazon.jpg);
+    background-image: url(photos/books_amazon.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
