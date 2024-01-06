@@ -84,3 +84,27 @@ span{
     font-size: 0.85rem;
     font-weight:700 ;
 }
+.nav-cart i {
+  font-size: 30px; 
+}
+.nav-cart{
+    font-size:0.85rem ;
+    font-weight: 700;
+}
+.panel{
+   height:40px ; 
+   background-color: #222f3d;
+   display: flex;
+   color: white;
+   align-items: center;
+   justify-content: space-evenly;
+   
+}
+.panel-options p {
+    display: inline;
+    margin-left: 20px;
+}
+.panel-options{
+    width:95%;
+    font-size:0.85rem;
+}
